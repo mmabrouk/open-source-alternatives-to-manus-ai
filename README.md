@@ -13,6 +13,12 @@ https://github.com/Fosowl/agenticSeek
 ## OpenManus
 https://github.com/FoundationAgents/OpenManus
 
+## LangManus
+https://github.com/Darwin-lfl/langmanus
+
+## OWL
+https://github.com/camel-ai/owl
+
 
 # outdated
 
