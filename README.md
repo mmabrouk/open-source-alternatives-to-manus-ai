@@ -1,23 +1,23 @@
 # open source alternatives to manus ai
 
 
-# Suna
+## Suna
 https://github.com/kortix-ai/suna
 
-# gptme
+## gptme
 https://github.com/gptme/gptme
 
-# AgenticSeek
+## AgenticSeek
 https://github.com/Fosowl/agenticSeek
 
-# OpenManus
+## OpenManus
 https://github.com/FoundationAgents/OpenManus
 
 
-## outdated
+# outdated
 
-# Codel
+## Codel
 https://github.com/semanser/codel
 
-# KwaiAgents
+## KwaiAgents
 https://github.com/KwaiKEG/KwaiAgents
