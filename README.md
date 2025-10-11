@@ -18,32 +18,38 @@ https://github.com/FoundationAgents/OpenManus
 ## AgenticSeek
 https://github.com/Fosowl/agenticSeek
 
-## OWL
-https://github.com/camel-ai/owl
-
-## Opus
-https://github.com/jeffrey-zang/opus
-
 ## SOFIA
 https://github.com/akim42003/SOFIA
 
 ## Agentic AI Computer
 https://github.com/masfaatanveer/Agentic-AI-Computer
 
-## Planar Computer Use
-https://github.com/coplane/planar-computer-use
+## Spongecake
+https://github.com/aditya-nadkarni/spongecake
+
+## Codel
+https://github.com/semanser/codel
+
+## Cuse
+https://github.com/cuse-dev/cuse
+
+## Llama4 Computer Use
+https://github.com/TheoLeeCJ/llama4-computer-use
+
+## OWL
+https://github.com/camel-ai/owl
+
+## Opus
+https://github.com/jeffrey-zang/opus
 
 ## Arrakis
 https://github.com/abshkbh/arrakis
 
-## Spongecake
-https://github.com/aditya-nadkarni/spongecake
+## Planar Computer Use
+https://github.com/coplane/planar-computer-use
 
 ## LangManus
 https://github.com/Darwin-lfl/langmanus
-
-## Codel
-https://github.com/semanser/codel
 
 ## KwaiAgents
 https://github.com/KwaiKEG/KwaiAgents
