@@ -18,6 +18,9 @@ https://github.com/FoundationAgents/OpenManus
 ## AgenticSeek
 https://github.com/Fosowl/agenticSeek
 
+## Magentic Ui
+https://github.com/microsoft/magentic-ui
+
 ## SOFIA
 https://github.com/akim42003/SOFIA
 
