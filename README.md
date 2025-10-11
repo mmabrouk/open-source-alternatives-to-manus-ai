@@ -1,13 +1,10 @@
-# open source alternatives to manus ai
+# Open Source Alternatives to Manus AI
 
 ## Suna
 https://github.com/kortix-ai/suna
 
 ## gptme
 https://github.com/gptme/gptme
-
-## Bytebot
-https://github.com/bytebot-ai/bytebot
 
 ## Terminator
 https://github.com/iris-networks/terminator
@@ -18,35 +15,8 @@ https://github.com/FoundationAgents/OpenManus
 ## AgenticSeek
 https://github.com/Fosowl/agenticSeek
 
-## Magentic Ui
-https://github.com/microsoft/magentic-ui
-
-## SOFIA
-https://github.com/akim42003/SOFIA
-
-## Agentic AI Computer
-https://github.com/masfaatanveer/Agentic-AI-Computer
-
-## Spongecake
-https://github.com/aditya-nadkarni/spongecake
-
 ## Codel
 https://github.com/semanser/codel
-
-## Cuse
-https://github.com/cuse-dev/cuse
-
-## Llama4 Computer Use
-https://github.com/TheoLeeCJ/llama4-computer-use
-
-## Computer Agent
-https://github.com/suitedaces/computer-agent
-
-## computer-use-nodejs-demo
-https://github.com/lx-0/computer-use-nodejs-demo
-
-## Gpt Agent
-https://github.com/iris-networks/gpt-agent
 
 ## Opus
 https://github.com/jeffrey-zang/opus
@@ -63,9 +33,48 @@ https://github.com/Darwin-lfl/langmanus
 ## KwaiAgents
 https://github.com/KwaiKEG/KwaiAgents
 
+
+
+# Computer Use Agent
+
+## Bytebot
+https://github.com/bytebot-ai/bytebot
+
+## Magentic Ui
+https://github.com/microsoft/magentic-ui
+
+## SOFIA
+https://github.com/akim42003/SOFIA
+
+## Agentic AI Computer
+https://github.com/masfaatanveer/Agentic-AI-Computer
+
+## Spongecake
+https://github.com/aditya-nadkarni/spongecake
+
+## Cuse
+https://github.com/cuse-dev/cuse
+
+## Llama4 Computer Use
+https://github.com/TheoLeeCJ/llama4-computer-use
+
+## Computer Agent
+https://github.com/suitedaces/computer-agent
+
+## computer-use-nodejs-demo
+https://github.com/lx-0/computer-use-nodejs-demo
+
+## Gpt Agent
+https://github.com/iris-networks/gpt-agent
+
+
+
 # MCP
+
 ## EdgeBox
 https://github.com/BIGPPWONG/EdgeBox
+
+
 
 # CUA SDK
 
