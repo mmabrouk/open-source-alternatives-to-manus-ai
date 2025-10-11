@@ -39,8 +39,14 @@ https://github.com/cuse-dev/cuse
 ## Llama4 Computer Use
 https://github.com/TheoLeeCJ/llama4-computer-use
 
-## OWL
-https://github.com/camel-ai/owl
+## Computer Agent
+https://github.com/suitedaces/computer-agent
+
+## computer-use-nodejs-demo
+https://github.com/lx-0/computer-use-nodejs-demo
+
+## Gpt Agent
+https://github.com/iris-networks/gpt-agent
 
 ## Opus
 https://github.com/jeffrey-zang/opus
@@ -57,7 +63,14 @@ https://github.com/Darwin-lfl/langmanus
 ## KwaiAgents
 https://github.com/KwaiKEG/KwaiAgents
 
-# CUA 
+# MCP
+## EdgeBox
+https://github.com/BIGPPWONG/EdgeBox
+
+# CUA SDK
+
+https://github.com/camel-ai/owl
+
 https://github.com/vercel-labs/ai-sdk-computer-use
 
 https://github.com/e2b-dev/open-computer-use
