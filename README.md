@@ -32,8 +32,7 @@ https://github.com/Darwin-lfl/langmanus
 
 ## KwaiAgents
 https://github.com/KwaiKEG/KwaiAgents
-
-## Agenta
+\n## Agenta
 https://github.com/Agenta-AI/agenta
 
 
@@ -88,6 +87,5 @@ https://github.com/vercel-labs/ai-sdk-computer-use
 https://github.com/e2b-dev/open-computer-use
 
 https://github.com/openai/openai-cua-sample-app
-
 
 
